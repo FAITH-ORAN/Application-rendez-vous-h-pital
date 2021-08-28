@@ -1,0 +1,14 @@
+Body{
+    background-color: aliceblue;
+}
+
+.title{
+    text-align: center;
+    font-family: "Lato";
+    color:rgb(34, 34, 187);
+}
+
+
+.container{
+    margin-left: 10px;
+}
